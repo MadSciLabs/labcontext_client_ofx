@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>80E35456-6C30-43BB-9B53-082ADFBDF93D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ofxEstimoteDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>481623AE-B169-4DDD-93B0-DE53D3ECFC29</key>
+		<string>https://github.com/trentbrooks/ofxEstimote.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ofxEstimoteDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>481623AE-B169-4DDD-93B0-DE53D3ECFC29</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/trentbrooks/ofxEstimote.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>481623AE-B169-4DDD-93B0-DE53D3ECFC29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>481623AE-B169-4DDD-93B0-DE53D3ECFC29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxEst</string>
+		</dict>
+	</array>
+</dict>
+</plist>
